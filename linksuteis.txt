@@ -1,0 +1,30 @@
+ANACONDA (incluindo o jupyter notebook)
+https://www.anaconda.com/products/individual
+
+
+python nativo
+https://www.python.org/downloads/release/python-2718/
+
+
+SQL SERVER 2019 EXPRESS EDITION
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
+Microsoft ODBC Driver 17 for SQL Server
+https://docs.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver15#download-for-windows
+
+DRIVER SQL SERVER e PYTHON
+Use pyodbc
+https://docs.microsoft.com/en-us/sql/connect/python/python-driver-for-sql-server?view=sql-server-ver15
+
+> cd C:\Python27\Scripts  
+> pip install pyodbc  
+
+Utilitário de linha de comando Microsoft® Command Line Utilities 13 for SQL Server® (sqlcmd.exe e bcp.exe)
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=52680
+
+SSMS
+https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+
+API
+- interface de programação de aplicação, que define uma série de padrões para comunicação entre diversas plataformas.
+Ex: python e SGBDs. software e celular Android para usar a câmera, Google maps.
